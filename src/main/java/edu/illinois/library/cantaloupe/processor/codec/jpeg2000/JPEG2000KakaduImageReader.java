@@ -56,7 +56,7 @@ import java.util.Arrays;
  *
  * <p>This software was developed using a Kakadu Public Service License
  * and may not be used commercially. See the
- * <a href="http://kakadusoftware.com/wp-content/uploads/2014/06/Kakadu-Licence-Terms-Feb-2018.pdf">
+ * <a href="https://kakadusoftware.com/wp-content/uploads/3451-3100-0598_1_Kakadu-Software-Licence-Terms-and-Conditions-FINAL-1-Sept-2021.pdf">
  * Kakadu Software License Terms and Conditions</a> for detailed terms.</p>
  *
  * @since 4.1
